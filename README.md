@@ -17,3 +17,5 @@ The best models (in my opinion) have been uploaded to OneDrive:
   https://tulodz-my.sharepoint.com/:u:/g/personal/244815_edu_p_lodz_pl/ESiTKg5O305GnF5lD5vJKfcBSNzOqjeXih2ufIA3VBGq9A?e=phWQLS
 
 The small text dataset that has given promising results was collected manually and is included in the *Dataset.zip* file.
+
+The environmental packages and their versions used are listed in *requirements.txt* file.
