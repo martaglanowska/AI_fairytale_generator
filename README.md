@@ -1,6 +1,6 @@
 # Artificial intelligence text generators: fairytales
 
-In this folder PIAT models of LSTM and Transformer are presented.
+In this folder models of LSTM and Transformer are presented.
 
 *LSTM.ipynb* and *Transformer.ipynb* notebooks contain the code itself, links and the process of reasoning leading to subsequent trials.
 
