@@ -1,4 +1,4 @@
-# PIAT
+# Artificial intelligence text generators: fairytales
 
 In this folder PIAT models of LSTM and Transformer are presented.
 
